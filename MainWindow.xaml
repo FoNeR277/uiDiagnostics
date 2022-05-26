@@ -41,9 +41,7 @@
 
                 <StackPanel Grid.Row="1">
 
-                    <Button Style="{StaticResource MenuButtonStyle}"
-                            Content="Diagnostics"
-                            Tag="D"/>
+                    
                     
                 </StackPanel>
 
